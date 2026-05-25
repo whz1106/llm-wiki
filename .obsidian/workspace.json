@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "352dbe4336237aa3",
+        "id": "7156364993596f17",
         "type": "tabs",
         "children": [
           {
-            "id": "3c211a7efa168e72",
+            "id": "357069bc0ab9b143",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -180,7 +180,7 @@
   },
   "active": "fe7eb34daac90021",
   "lastOpenFiles": [
-    "2026-04-19.md",
-    "未命名.md"
+    "1111.md",
+    "2026-04-19.md"
   ]
 }
